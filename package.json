@@ -8,6 +8,11 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
+    "@chakra-ui/react": "^2.4.9",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^9.0.2",
     "next": "latest",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
